@@ -23,3 +23,10 @@ I created this repository to gain hands-on experience with Git and GitHub. It se
 - git restore
 - git reset
 - git revert
+
+## Resources
+
+The following resources were used during my learning journey:
+
+- freeCodeCamp.org – Git and GitHub for Beginners (Full Course)
+  https://youtu.be/mAFoROnOfHs
