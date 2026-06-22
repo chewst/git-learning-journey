@@ -1,1 +1,3 @@
 test for git commit
+
+test for modifying commit message
