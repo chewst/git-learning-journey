@@ -1,3 +1,6 @@
 test for git commit
 
 test for modifying commit message
+
+test for git restore
+git restore for local changes
